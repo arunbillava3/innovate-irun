@@ -11,3 +11,8 @@
 - npm run dev
 ## Production mode
 - npm start
+
+##API Endpoints
+- GET /api/users - Get all users
+- GET /api/users/:id - Get user by ID
+- POST /api/users - Create a new user
